@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chromedriver": "^139.0.3",
+    "dotenv": "^17.2.1",
+    "selenium-webdriver": "^4.35.0"
+  }
+}
